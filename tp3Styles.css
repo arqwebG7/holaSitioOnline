@@ -1,0 +1,31 @@
+body{
+		background-color: #008B8B;
+		width: 750px;
+		margin: 0 auto;
+		position:relative;
+		background-image: url(http://www.bhmpics.com/walls/carina_nebula_planet-wide.jpg);
+}
+h1 {
+		margin-top: 30px;
+		color: white;
+		font-size: 3em;
+		font-family: Lucida Sans Unicode;
+		text-shadow: 4px 4px #FF0000;
+}
+p  {
+		color: white;
+		font-size: 1.3em;
+		font-family: Arial;
+		margin-bottom: 40px;
+		text-align: justify;
+		text-shadow: 2px 2px #FF0000;
+}
+[alt="arquitectura-web.jpg"] {
+		margin-right: 15px;
+		border: 3px ridge #D2691E;
+}
+[poster="web001.jpg"]{
+	align: center;
+	margin-left: 25%;
+	border: 3px ridge white;
+}
